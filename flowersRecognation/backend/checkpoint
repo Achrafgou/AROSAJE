@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/elbf/Desktop/faceRecognation/backend/my_model.tflearn"
+all_model_checkpoint_paths: "/home/elbf/Desktop/faceRecognation/backend/my_model.tflearn"
